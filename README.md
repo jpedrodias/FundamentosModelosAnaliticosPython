@@ -18,3 +18,8 @@ Preparação do sistema usando:
 * Correr Python usando a extensão Dev Containers (Remote Containers) » [abrir Dev Containers](system_prep/python_dev_containers.md)
 
 * * *
+
+
+a ver:
+- https://academiaportugaldigital.pt/
+- https://www.passaportequalifica.gov.pt/
