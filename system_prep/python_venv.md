@@ -4,7 +4,7 @@
 
 ## Configuração inicial do Ambiente Virtual 
 ```bash
-python -m venv C:\TEMP\FormacaoModelos --prompt "Fundamentos de Modelos Analíticos"
+python -m venv C:\TEMP\FormacaoModelos --prompt "Modelos Analiticos"
 ```
 
 **Remover as restrições de segurança do powershell**
@@ -30,7 +30,7 @@ C:\TEMP\FormacaoModelos\Scripts\activate.bat
 
 ## Configuração de um ambiente virtual
 ```bash
-python3 -m venv /tmp/FormacaoModelos --prompt "Fundamentos de Python"
+python3 -m venv /tmp/FormacaoModelos --prompt "Modelos Analiticos"
 ```
 
 ## Ativação do ambiente virtual
