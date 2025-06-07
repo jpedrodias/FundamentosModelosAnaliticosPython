@@ -9,7 +9,7 @@
 - Python 3
 - Python 3.12-bookworm
 - Editar ficheiro .\devcontainer\devcontainer.json
-- alterar `name` para "Fundamentos de Python"
+- alterar `name` para "Fundamentos Modelos Analiticos"
 
 
 ***
