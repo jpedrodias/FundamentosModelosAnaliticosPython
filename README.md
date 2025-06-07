@@ -14,7 +14,7 @@
 
 Preparação do sistema usando:
 * Correr Python dentro de um Ambiente Virtual » [abrir Python venv](system_prep/python_venv.md)
-(menor complexidade na instalação e recursos de sistema)
+(Preferível por ter menor complexidade na instalação e necessidade de recursos de sistema)
 
 
 * Correr Python dentro de um contentor Docker » [abrir Python Docker](system_prep/python_docker.md)
