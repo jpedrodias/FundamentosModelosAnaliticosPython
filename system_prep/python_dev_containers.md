@@ -12,14 +12,19 @@
 - alterar `name` para "Fundamentos de Python"
 
 
-[em construção - testes]
+***
+# Outras fontes
+
+[Tutorial: Criar um aplicativo de contêiner com o Visual Studio Code](https://learn.microsoft.com/pt-pt/visualstudio/docker/tutorials/docker-tutorial)
+
 
 [lista de vídeos por vscode Teams](https://www.youtube.com/watch?v=61M2takIKl8&list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31&index=1)
+
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/61M2takIKl8/0.jpg)](https://www.youtube.com/watch?v=61M2takIKl8&list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31&index=1)
 
 
-
 [Usando Dockerfile e docker-compose.yml](https://www.youtube.com/watch?v=p9L7YFqHGk4)
+
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p9L7YFqHGk4/hqdefault.jpg)](https://www.youtube.com/watch?v=p9L7YFqHGk4)
