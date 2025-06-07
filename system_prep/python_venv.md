@@ -44,8 +44,9 @@ source /tmp/FormacaoModelos/bin/activate
 
 
 * * * 
+* * * 
 
-# Instalação de prerequesitos
+# Instalação de requesitos
 ```bash
 pip install -r requirements.txt
 ```
