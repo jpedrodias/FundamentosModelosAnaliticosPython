@@ -11,7 +11,7 @@
 
 
 * * * 
-# Primeiros passos: [System Prep](system_prep/python_venv.md)
+# Primeiros passos: [System Prep](system_prep/)
 
 Preparação do sistema usando :
 
