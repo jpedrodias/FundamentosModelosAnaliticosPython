@@ -2,12 +2,12 @@
 
 # Windows: 
 
-## Configuração inicial do Ambiente Virtual 
+## Configuração inicial do ambiente virtual 
 ```bash
 python -m venv C:\TEMP\FormacaoModelos --prompt "Modelos Analiticos"
 ```
 
-**Remover as restrições de segurança do powershell**
+**Remover as restrições de segurança do powershell (admin mode)**
 ```bash
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 ```
