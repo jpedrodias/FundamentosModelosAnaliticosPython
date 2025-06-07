@@ -6,3 +6,4 @@ polars
 seaborn
 xgboost
 scikit-learn
+thonny
