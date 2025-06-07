@@ -18,6 +18,6 @@ Preparação do sistema usando:
 
 
 ***
-# IDE para Ensino:
+# IDE - Ambiente de desenvolvimento integrado:
 * [Thonny IDE](https://thonny.org/)
 * [CoLab - Jupyter notebook da Google](https://colab.research.google.com/)
