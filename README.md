@@ -6,6 +6,8 @@
 > Duração: 25h
 > 
 > 2025-06 - 2025-07
+> 
+> Formadora: (Sandra) Liliana
 
 
 * * * 
