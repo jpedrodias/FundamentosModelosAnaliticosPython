@@ -11,21 +11,21 @@
 
 
 * * * 
-# Primeiros passos: [System Prep](system_prep/)
+# Primeiros passos » [Preparação do sistema](system_prep/)
 
-Preparação do sistema usando :
+Preparação do sistema usando venv | Docker:
 
 
-* [Recomendado] Correr Python dentro de um **Ambiente Virtual** » [abrir Python venv](system_prep/python_venv.md)
+* **VENV** [Recomendado] Correr Python dentro de um **Ambiente Virtual** » [abrir Python venv](system_prep/python_venv.md)
 
 (Preferível por ter menor complexidade na instalação e necessidade de recursos de sistema)
 
 
-* Correr Python dentro de um contentor **Docker** » [abrir Python Docker](system_prep/python_docker.md)
+* **DOCKER** Correr Python dentro de um contentor **Docker** » [abrir Python Docker](system_prep/python_docker.md)
 
 (maior complexidade na instalação inicial e necessidade de recursos de sistema)
 
-* Correr Python usando a extensão **Dev Containers** (Remote Containers) » [abrir Dev Containers](system_prep/python_dev_containers.md)
+* **DEV CONTAINER** Correr Python usando a extensão **Dev Containers** (Remote Containers) » [abrir Dev Containers](system_prep/python_dev_containers.md)
 
 (igual ao método anterior)
 
