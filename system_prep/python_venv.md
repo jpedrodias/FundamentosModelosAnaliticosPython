@@ -7,17 +7,24 @@
 python -m venv C:\TEMP\FormacaoModelos --prompt "Modelos Analiticos"
 ```
 
-**Remover as restrições de segurança do powershell (admin mode)**
-```bash
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
-```
-
 ## Ativação do ambiente virtual
 
 **em PowerShell**:
 ```bash
 C:\TEMP\FormacaoModelos\Scripts\Activate.ps1
 ```
+
+Se esta última instrução não correr por faltar de permissões de execussão de scripts powershell em windows, então é possível remover essa restrição com a seguinte instrução:
+- Executar um terminal powershell em modo de admin;
+- executar a instrução;
+- reabrir o terminal novamente;
+
+**Remover as restrições de segurança do powershell (admin mode)**
+```bash
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+```
+
+
 
 **em cmd** (linha de comandos):
 ```bash
