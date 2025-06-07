@@ -4,3 +4,5 @@ numpy
 pandas
 polars
 seaborn
+xgboost
+scikit-learn
