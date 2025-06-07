@@ -50,4 +50,6 @@ pip install -r requirements.txt
 * numpy - Biblioteca para cálculos numéricos eficientes, como matrizes e álgebra linear;
 * pandas - Biblioteca para manipulação e análise de dados em tabelas;
 * seaborn - Biblioteca para visualização de dados que extende o MapPlotLib.
+* scikit-learn - Biblioteca para machine learning e modelagem preditiva.
+* xgboost - Biblioteca otimizada para boosting de árvores de decisão, amplamente utilizada para tarefas de classificação e regressão em machine learning.
 * ...
