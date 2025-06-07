@@ -22,4 +22,4 @@ Preparação do sistema usando:
 # IDE - Ambiente de desenvolvimento integrado:
 * [Thonny IDE](https://thonny.org/)
 * [CoLab - Jupyter notebook da Google](https://colab.research.google.com/)
-* 
+* [try Jupyter - from jupyter.org](https://jupyter.org/try-jupyter/lab/)
