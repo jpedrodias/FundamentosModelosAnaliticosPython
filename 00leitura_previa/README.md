@@ -7,4 +7,4 @@
 
 * [ANÁLISE EXPLORATÓRIA E ESTATÍSTICA DESCRITIVA](03_Estatisticadescritiva.pdf)
 
-* [Revisões da estatistica descritiva +  Introdução à Probabilidade + Distribuições Discretas Univariadas](Aula 1 PG MBT_Models and Business_7set2021.pdf)
+* [Revisões da estatistica descritiva +  Introdução à Probabilidade + Distribuições Discretas Univariadas](Aula_1_PG_MBT_Models_and_Business_7set2021.pdf)
