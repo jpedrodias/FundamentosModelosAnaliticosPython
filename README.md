@@ -16,7 +16,7 @@
 Preparação do sistema usando :
 
 
-* Correr Python dentro de um **Ambiente Virtual** » [abrir Python venv](system_prep/python_venv.md)
+* [Recomendado] Correr Python dentro de um **Ambiente Virtual** » [abrir Python venv](system_prep/python_venv.md)
 
 (Preferível por ter menor complexidade na instalação e necessidade de recursos de sistema)
 
