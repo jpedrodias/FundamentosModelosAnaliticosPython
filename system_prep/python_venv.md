@@ -13,8 +13,11 @@ python -m venv C:\TEMP\FormacaoModelos --prompt "Modelos Analiticos"
 ```bash
 C:\TEMP\FormacaoModelos\Scripts\Activate.ps1
 ```
+$${\color{red}Red}
+Se esta última instrução não correr por faltar de permissões de execussão de scripts powershell em windows, então é possível remover essa restrição com a seguinte instrução:
+$$
 
-<span style="color:red">Se esta última instrução não correr por faltar de permissões de execussão de scripts powershell em windows, então é possível remover essa restrição com a seguinte instrução:</span>
+
 **Remover as restrições de segurança do powershell (admin mode)**
 ```bash
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
