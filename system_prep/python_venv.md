@@ -45,6 +45,7 @@ source /tmp/FormacaoModelos/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
 * ipython - Um interpretador interativo mais avançado que o default do Python;
 * jupyterlab - Um ambiente de trabalho interativo para criação de Blocos de notas;
 * numpy - Biblioteca para cálculos numéricos eficientes, como matrizes e álgebra linear;
@@ -53,5 +54,3 @@ pip install -r requirements.txt
 * scikit-learn - Biblioteca para machine learning e modelagem preditiva.
 * xgboost - Biblioteca otimizada para boosting de árvores de decisão, amplamente utilizada para tarefas de classificação e regressão em machine learning.
 * ...
-
-
