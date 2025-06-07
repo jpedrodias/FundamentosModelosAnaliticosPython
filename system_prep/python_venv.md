@@ -4,7 +4,7 @@
 
 ## Configuração inicial do Ambiente Virtual 
 ```bash
-python -m venv C:\TEMP\fundpython --prompt "Fundamentos de Python"
+python -m venv C:\TEMP\FormacaoModelos --prompt "Fundamentos de Modelos Analíticos"
 ```
 
 **Remover as restrições de segurança do powershell**
@@ -16,12 +16,12 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 
 **em PowerShell**:
 ```bash
-C:\TEMP\fundpython\Scripts\Activate.ps1
+C:\TEMP\FormacaoModelos\Scripts\Activate.ps1
 ```
 
 **em cmd** (linha de comandos):
 ```bash
-C:\TEMP\fundpython\Scripts\activate.bat
+C:\TEMP\FormacaoModelos\Scripts\activate.bat
 ```
 
 * * * 
@@ -30,12 +30,12 @@ C:\TEMP\fundpython\Scripts\activate.bat
 
 ## Configuração de um ambiente virtual
 ```bash
-python3 -m venv /tmp/fundpython --prompt "Fundamentos de Python"
+python3 -m venv /tmp/FormacaoModelos --prompt "Fundamentos de Python"
 ```
 
 ## Ativação do ambiente virtual
 ```bash
-source /tmp/fundpython/bin/activate
+source /tmp/FormacaoModelos/bin/activate
 ```
 
 
