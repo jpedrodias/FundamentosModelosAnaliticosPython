@@ -22,7 +22,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 PS: Essa instrução precisa ser executada em powershell em mode Admin
 
 
-Em alternativa, abrir o terminal ```cmd```
+Em alternativa, abrir o terminal
 **em cmd** (linha de comandos):
 ```bash
 C:\TEMP\FormacaoModelos\Scripts\activate.bat
