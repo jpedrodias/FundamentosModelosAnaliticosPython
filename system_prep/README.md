@@ -1,4 +1,4 @@
-# Correr Python em [venv](system_prep/python_venv.md) | [Docker](python_docker.md) | [Dev Containers](python_dev_containers.md)
+# Correr Python em [venv](python_venv.md) | [Docker](python_docker.md) | [Dev Containers](python_dev_containers.md)
 Preparação do sistema para usar venv ou docker
 
 **Vantagens:**
