@@ -27,7 +27,7 @@ Preparação do sistema usando venv | Docker:
 * * *
 
 # Conhecimentos prévios recomendados
-[Fundamentos de Python](https://github.com/jpedrodias/FundamentosPython)
+- [Fundamentos de Python](https://github.com/jpedrodias/FundamentosPython)
 
 
 ***
