@@ -21,5 +21,6 @@ Preparação do sistema usando:
 
 # IDE - Ambiente de desenvolvimento integrado:
 * [Thonny IDE](https://thonny.org/) - IDE ideal para ensino/debug
+* [Visual Studio Code](https://code.visualstudio.com/download)
 * [CoLab - Jupyter notebook da Google](https://colab.research.google.com/)
 * [try Jupyter - from jupyter.org](https://jupyter.org/try-jupyter/lab/)
