@@ -24,3 +24,4 @@ Preparação do sistema usando:
 * [Visual Studio Code](https://code.visualstudio.com/download) - integrado com o Copilot
 * [CoLab - Jupyter notebook da Google](https://colab.research.google.com/)
 * [try Jupyter - from jupyter.org](https://jupyter.org/try-jupyter/lab/)
+
