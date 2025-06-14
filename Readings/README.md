@@ -26,6 +26,8 @@
 
 * [Introdução aos Algoritmos de Aprendizagem Supervisionada](Manual_Apoio.pdf)
 
+* [Manual Formando](Manual_Formando_UFCD10810.pdf)
+
 
 # Outros
 
