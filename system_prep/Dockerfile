@@ -19,4 +19,4 @@ RUN python -m pip install pip --upgrade --no-cache-dir
 RUN python -m pip install -r requirements.txt --no-cache-dir
 
 # CMD ["python", "app.py"]
-CMD ['bash']
+CMD ["bash"]
