@@ -32,11 +32,11 @@ ENV HOME=/home/appuser
 CMD ["/bin/bash"]
 
 
-# docker build -t my-python -f system_prep/Dockerfile .
-# docker run -it --rm my-python
+# docker build -t my-python-3.12 -f system_prep/Dockerfile .
+# docker run -it --rm my-python-3.12
 
 # WINDOWS To run the container with a mounted volume for development:
-# docker run -it --rm -v ${PWD}:/app my-python
+# docker run -it --rm -v ${PWD}:/app my-python-3.12
 
 # Linux/macOS To run the container with a mounted volume for development:
-# docker run -it --rm -v $(pwd):/app my-python
+# docker run -it --rm -v $(pwd):/app my-python-3.12
