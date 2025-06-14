@@ -2,7 +2,7 @@ FROM python:3.12-bookworm
 
 WORKDIR /app
 
-COPY ../requirements.txt /app/
+COPY requirements.txt /app/
 
 # security
 RUN addgroup --system appgroup && \
@@ -20,3 +20,8 @@ RUN python -m pip install -r requirements.txt --no-cache-dir
 
 # CMD ["python", "app.py"]
 CMD ["bash"]
+
+
+# docker build -t my-python-docker .
+# docker run -it --rm my-python-docker
+# docker run -it --rm -v $(pwd):/app my-python-docker
