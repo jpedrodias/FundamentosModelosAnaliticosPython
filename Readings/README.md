@@ -24,3 +24,8 @@
 
 * [Tutorial de NumPy (464 pages) ](00_numpy_tutorial.pdf)
 
+
+# Outros
+
+* [Planificação Geral](PLANIFICACAOGERAL.pdf)
+
