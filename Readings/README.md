@@ -18,4 +18,4 @@
 
 # Instalação de Ferramentas
 
-* [VSCODE](00-InstalarFerramentas.pdf)
+* [Python+vscode+Jupyter](00-InstalarFerramentas.pdf)
