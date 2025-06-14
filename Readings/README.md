@@ -24,6 +24,8 @@
 
 * [Tutorial de NumPy (464 pages) ](00_numpy_tutorial.pdf)
 
+* [Introdução aos Algoritmos de Aprendizagem Supervisionada](Manual_Apoio.pdf)
+
 
 # Outros
 
