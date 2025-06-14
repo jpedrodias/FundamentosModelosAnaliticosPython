@@ -1,5 +1,9 @@
-# Recomendações de Leitura Prévia
+# Instalação de Ferramentas
 
+* [Python+vscode+Jupyter](00-InstalarFerramentas.pdf)
+
+
+# Recomendações de Leitura Prévia: Estatística
 
 * [ESTATÍSTICA DESCRITIVA E INFERENCIAL](01_ManualEstatistica.pdf)
 
@@ -16,6 +20,7 @@
 * [Tabela Normal](tabela_normal.pdf)
 
 
-# Instalação de Ferramentas
+# Manuais 
 
-* [Python+vscode+Jupyter](00-InstalarFerramentas.pdf)
+* [Tutorial de NumPy (464 pages) ](00_numpy_tutorial.pdf)
+
