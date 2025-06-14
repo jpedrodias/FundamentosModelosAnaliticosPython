@@ -19,13 +19,17 @@ Outros `sabores`:
 
 Mais `TAGS` (versões) em https://hub.docker.com/_/python
 
+Neste documetno existem duas opções:
+
+* Opção 1: Correr a partir de uma imagem Python sem alterações
+* Opção 2: Correr a partir de uma imagem personalizada (com um Dockerfile)
 
 
 * * *
 * * *
 
 
-# Opção 1: Download & Run
+# Opção 1: Correr uma versão "limpa" do Python
 Simples download and run. Etapas seguintes são todas manuais.
 
 **Download:**
@@ -74,10 +78,10 @@ docker build -t my-python -f system_prep/Dockerfile .
 
 **Correr a imagem criada em Windows:**
 ```bash
-docker run -it --rm -v ${PWD}:/app --entrypoint sh my-python
+docker run -it --rm -v ${PWD}:/app --entrypoint bash my-python
 ```
 
 **Correr a imagem criada em Linux/macOS:**
 ```bash
-docker run -it --rm -v ${pwd}:/app  --entrypoint sh my-python
+docker run -it --rm -v ${pwd}:/app  --entrypoint bash my-python
 ```
