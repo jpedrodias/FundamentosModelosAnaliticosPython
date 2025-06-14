@@ -25,3 +25,10 @@ Preparação do sistema usando:
 * [CoLab - Jupyter notebook da Google](https://colab.research.google.com/)
 * [try Jupyter - from jupyter.org](https://jupyter.org/try-jupyter/lab/)
 
+***
+
+# Instalação de Extensões no vscode:
+* Jupyter
+* Rainbow CSV
+* Data Wrangler
+
