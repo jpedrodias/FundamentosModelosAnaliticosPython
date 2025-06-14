@@ -16,15 +16,16 @@ RUN python -m pip install pip --upgrade --no-cache-dir && \
     python -m pip install -r requirements.txt --no-cache-dir
 
 # Security - run as non-root user
-USER appuser
-ENV HOME=/home/appuser
-
 RUN addgroup --system appgroup && \
     adduser --system --ingroup appgroup appuser && \
     mkdir -p /home/appuser && \
     chown -R appuser:appgroup /home/appuser && \
     chown -R appuser:appgroup /app && \
     echo "force_color_prompt=yes" >> /home/appuser/.bashrc
+
+USER appuser
+ENV HOME=/home/appuser
+
 
 # CMD ["python", "app.py"]
 CMD ["/bin/bash"]
