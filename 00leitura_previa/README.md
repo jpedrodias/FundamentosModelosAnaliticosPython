@@ -14,3 +14,8 @@
 * [Regressão Linear + Breve abordagem às Árvores de decisão](Aula_3.0_PG_MKT&BT_Regressão_Linear.pdf)
 
 * [Tabela Normal](tabela_normal.pdf)
+
+
+# Instalação de Ferramentas
+
+* [VSCODE](00-InstalarFerramentas.pdf)
