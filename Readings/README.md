@@ -3,6 +3,7 @@
 * [Python+vscode+Jupyter](00-InstalarFerramentas.pdf)
 
 
+
 # Recomendações de Leitura Prévia: Estatística
 
 * [ESTATÍSTICA DESCRITIVA E INFERENCIAL](01_ManualEstatistica.pdf)
@@ -20,6 +21,7 @@
 * [Tabela Normal](tabela_normal.pdf)
 
 
+
 # Manuais 
 
 * [Tutorial de NumPy (464 pages) ](00_numpy_tutorial.pdf)
@@ -27,6 +29,7 @@
 * [Introdução aos Algoritmos de Aprendizagem Supervisionada](Manual_Apoio.pdf)
 
 * [Manual Formando](Manual_Formando_UFCD10810.pdf)
+
 
 
 # Outros
