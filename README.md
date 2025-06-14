@@ -31,7 +31,10 @@ Preparação do sistema usando venv | Docker:
 
 
 ***
+# Conhecimentos diversos
+- [Leituras](Readings/README.md)
 
+***
 a ver:
 - https://academiaportugaldigital.pt/
 - https://www.passaportequalifica.gov.pt/
