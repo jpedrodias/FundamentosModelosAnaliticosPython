@@ -68,11 +68,16 @@ O ficheiro Dockerfile tem todas as configurações para a construção da imagem
 O processo de `build` é demorado mas só precisa ser feito apenas uma vez.
 
 ```bash
-docker build -t fundamentos-python -f system_prep/Dockerfile .
+docker build -t my-python -f system_prep/Dockerfile .
 ```
 
 
-**Correr a imagem criada:**
+**Correr a imagem criada em Windows:**
 ```bash
-docker run -it --rm -v ${PWD}:/app -p 5000:5000 --entrypoint sh fundamentos-python
+docker run -it --rm -v ${PWD}:/app --entrypoint sh my-python
+```
+
+**Correr a imagem criada em Linux/macOS:**
+```bash
+docker run -it --rm -v ${pwd}:/app  --entrypoint sh my-python
 ```
