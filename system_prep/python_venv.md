@@ -61,3 +61,12 @@ pip install -r requirements.txt
 * scikit-learn - Biblioteca para machine learning e modelagem preditiva.
 * xgboost - Biblioteca otimizada para boosting de árvores de decisão, amplamente utilizada para tarefas de classificação e regressão em machine learning.
 * ...
+
+
+# IDE Visual Studio Code
+* download
+* correr dentro do ambiente virtual
+
+```bash
+code .
+```
