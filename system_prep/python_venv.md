@@ -4,14 +4,14 @@
 
 ## Configuração inicial do ambiente virtual 
 ```bash
-python -m venv C:\TEMP\FormacaoModelos --prompt "Modelos Analiticos"
+python -m venv C:\TEMP\venvs\FormacaoModelos --prompt "Modelos Analiticos"
 ```
 
 ## Ativação do ambiente virtual
 
 **em PowerShell**:
 ```bash
-C:\TEMP\FormacaoModelos\Scripts\Activate.ps1
+C:\TEMP\venvs\FormacaoModelos\Scripts\Activate.ps1
 ```
 
 Se esta última instrução não correr por faltar de permissões de execussão de scripts powershell em windows, então é possível remover essa restrição com a seguinte instrução
@@ -27,7 +27,7 @@ PS: Essa instrução precisa ser executada em powershell em mode Admin
 Em alternativa, abrir o terminal
 **em cmd** (linha de comandos):
 ```bash
-C:\TEMP\FormacaoModelos\Scripts\activate.bat
+C:\TEMP\venvs\FormacaoModelos\Scripts\activate.bat
 ```
 
 * * * 
