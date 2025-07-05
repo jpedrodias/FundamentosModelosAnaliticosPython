@@ -7,3 +7,4 @@ seaborn
 xgboost
 scikit-learn
 thonny
+dash-bootstrap-components
