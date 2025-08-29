@@ -1,14 +1,24 @@
 # Fundamentos do desenvolvimento de modelos analíticos em Python
 
 
-> Entidade Formadora: [EISnt](https://eisnt.com/)
->
-> Duração: 25h
-> 
-> 2025-06 - 2025-07
-> 
-> Formadora: (Sandra) Liliana
+## Resumo do Conteúdo Programático
+* Fundamentos dos modelos de aprendizagem automática
+* Processo de desenvolvimento de classificadores
+* Procedimentos de treino e validação
+* Avaliação de desempenho
+* Aprendizagem não-supervisionada
+* Análise de clusters hierárquica
+* Análise de clusters modelos de partição
+* Aprendizagem supervisionada
+* Classificação por vizinhos mais próximos
+* Árvores de classificação
+* Projeto de desenvolvimento de um modelo em Python
 
+## Objectivos Gerais:
+* Identificar as componentes essenciais de um sistema de aprendizagem automática.
+* Descrever as formas de avaliação de desempenho de um sistema de aprendizagem automática.
+* Desenvolver um modelo de aprendizagem não-supervisionada.
+* Desenvolver um modelo de aprendizagem supervisionada.
 
 * * * 
 # Primeiros passos » [Preparação do sistema](system_prep/)
@@ -33,8 +43,3 @@ Preparação do sistema usando venv | Docker:
 ***
 # Conhecimentos diversos
 - [Leituras](Readings/README.md)
-
-***
-a ver:
-- https://academiaportugaldigital.pt/
-- https://www.passaportequalifica.gov.pt/
